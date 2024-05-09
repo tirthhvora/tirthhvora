@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tirth</h1>
 <h3 align="center">I've primarily worked on ML research, creating AI Agentic systems and robust flask backends!</h3>
 
-- 🔭 I’m currently working at **[OpenLocus.ai](openlocus.ai)** and working on **DiscoveryBench** - A benchmark for evaluating LLMs and Agentic systems where on given a set of hypotheses, a high-level workflow and a real-world dataset, how well does the system explore and generate new insights?
+- 🔭 I’m currently working at **[OpenLocus.ai](https://www.openlocus.ai)** and working on **DiscoveryBench** - A benchmark for evaluating LLMs and Agentic systems where on given a set of hypotheses, a high-level workflow and a real-world dataset, how well does the system explore and generate new insights?
 
 - 🔭 I have worked in the ML engineering team and performed 200+ experiments on generating insights using a multi-agent framework like [Autogen](https://microsoft.github.io/autogen/) and have been acknowledged in the [paper](https://arxiv.org/html/2402.13610v1#S2) on *Data-driven discovery using LGMs* published at the International Conference of Machine Learning (ICML).
 
