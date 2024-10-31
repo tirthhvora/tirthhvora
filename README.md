@@ -1,19 +1,20 @@
 <h1 align="center">Hello 👋, I'm Tirth</h1>
-<h3 align="center">I've primarily worked on ML research, creating AI Agentic systems and robust flask backends!</h3>
+<h3 align="center">My experience centers around developing robust proof-of-concepts in AI/ML and data analysis, conducting machine learning research, designing AI-driven agent systems, and building reliable backends!</h3>
 
-- 🔭 I’m currently working at **[OpenLocus.ai](https://www.openlocus.ai)** and working on **DiscoveryBench** - A benchmark for evaluating LLMs and Agentic systems where on given a set of hypotheses, a high-level workflow and a real-world dataset, how well does the system explore and generate new insights?
+### 🔭 Current Focus
+- 🖥️ I’m currently working at **[OpenLocus.ai](https://www.openlocus.ai)** and my work focuses on exploring new technologies and contributing to advancements in AI and Data Analysis.
+- 🔭 I've researched on autonomous agents and their applications in scientific discovery and industry. My work involved developing solutions that use large generative models to improve scientific discovery and problem-solving capabilities.
+- 
+### 📚 Authored Papers & Contributions
+- DiscoveryBench: Towards Data-Driven Discovery with Large Language Models - [Link](https://arxiv.org/abs/2407.01725v1)
+- Data-driven Discovery with Large Generative Models: Accepted at ICML'24 - [Link](https://arxiv.org/abs/2402.13610)
 
-- 🔭 I have worked in the ML engineering team and performed 200+ experiments on generating insights using a multi-agent framework like [Autogen](https://microsoft.github.io/autogen/) and have been acknowledged in the [paper](https://arxiv.org/html/2402.13610v1#S2) on *Data-driven discovery using LGMs* published at the International Conference of Machine Learning (ICML).
+### Experience 
+- I've interned and am joining **[Apollo Global Management](apollo.com)** as an Analyst in 2025, where I've worked on developing ETL pipelines and creating real-time monitoring dashboards, (tested and deployed) automated testing of platforms and APIs to reduce admin tasks!
+- I have participated in multiple hackathons and have created projects like **Attornify, Transverse, AssessGuard etc.**
+-⚡Fun fact **I learn very fast and come up with very unique perspectives on solving problems!**
 
-- 🌱 I’m currently learning **Spring Boot, Flask**.
-
-- 🖥️I have participated in multiple hackathons and have created projects like **Attornify, Transverse etc.**
-
-- 💬 Ask me about **AutoGen multi-agent framework, Data-driven discovery using LLMs, RAG and Backend System Design**
-
-- 📫 You can can reach me at **vora.tirth09@gmail.com**
-
-- ⚡ Fun fact **I learn very fast and come up with very unique perspectives on solving problems!**
+#### 📫 You can can reach me at **vora.tirth09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
