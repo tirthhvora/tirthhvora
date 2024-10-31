@@ -10,7 +10,7 @@
 - Data-driven Discovery with Large Generative Models: Accepted at ICML'24 - [Link](https://arxiv.org/abs/2402.13610)
 
 ### Experience 
-- I've interned and am joining **[Apollo Global Management](apollo.com)** as an Analyst in 2025, where I've worked on developing ETL pipelines and creating real-time monitoring dashboards, (tested and deployed) automated testing of platforms and APIs to reduce admin tasks!
+- I've interned and am joining **[Apollo Global Management](https://apollo.com)** as an Analyst in 2025, where I've worked on developing ETL pipelines and creating real-time monitoring dashboards, (tested and deployed) automated testing of platforms and APIs to reduce admin tasks!
 - I have participated in multiple hackathons and have created projects like **Attornify, Transverse, AssessGuard etc.**
 - ⚡Fun fact **I learn very fast and come up with very unique perspectives on solving problems!**
 
